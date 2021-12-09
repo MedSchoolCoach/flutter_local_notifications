@@ -1,6 +1,6 @@
 // @dart = 2.9
 
-import 'dart:io';
+import 'package:universal_io/io.dart';
 
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:flutter_test/flutter_test.dart';
